@@ -1,2 +1,4 @@
-# Palera1n GUI
- An updated Palera1n GUI
+# Palera1nGUI
+ A GUI for the palera1n C rewrite.
+
+Origonly from @MrCreator1, Updated By @RoryKinlen
