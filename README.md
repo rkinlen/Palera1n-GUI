@@ -1,4 +1,24 @@
-# Palera1nGUI
- A GUI for the palera1n C rewrite.
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
-Origonly from @MrCreator1, Updated By @RoryKinlen
+
+# Palera1n GUI for the C Rewrite
+
+A Rewrite for the GUI by @MrCreator1 updated by @RoryKinlen for the C Rewrite.
+
+
+## Installation
+
+Make sure to downlaod palera1n from their website for MacOS.
+
+Install the Deps
+``` sudo bash install_deps5.sh```
+## Authors
+
+- [@RoryKinlen updated it to work with the c rewrite.](https://www.twitter.com/RoryKinlen)
+- [@MrCreator1 for the original GUI](https://www.twitter.com/MrCreator1)
+- [Palera1n for the Jailbreak](https://palera.in)
+
+
+## License
+
+[GPL 3.0](https://choosealicense.com/licenses/gpl-3.0/)
